@@ -16,6 +16,10 @@ html {
 
 .purple {
   color: var(--imp-text-color) ;
+  font-weight: 800;
+}
+.black{
+  color:black
 }
 
 button:focus {
